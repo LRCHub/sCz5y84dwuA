@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "(It Goes Like) Nanana",
+  "base_artist": "Peggy Gou",
+  "createdAt": "2026-01-05T04:55:59.280710Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "(It Goes Like) Nanana (Edit)",
+      "artist": "Peggy Gou",
+      "has_synced": true,
+      "path": "select/01_(It_Goes_Like)_Nanana_(Edit)_Peggy_Gou.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "(It Goes Like) Nanana - Edit",
+      "artist": "Peggy Gou",
+      "has_synced": true,
+      "path": "select/02_(It_Goes_Like)_Nanana_-_Edit_Peggy_Gou.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(It Goes Like) Nanana - Edit",
+      "artist": "Peggy Gou",
+      "has_synced": true,
+      "path": "select/03_(It_Goes_Like)_Nanana_-_Edit_Peggy_Gou.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "(It Goes Like) Nanana",
+      "artist": "Peggy Gou",
+      "has_synced": true,
+      "path": "select/04_(It_Goes_Like)_Nanana_Peggy_Gou.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(It Goes Like) Nanana - Edit",
+      "artist": "Peggy Gou",
+      "has_synced": true,
+      "path": "select/05_(It_Goes_Like)_Nanana_-_Edit_Peggy_Gou.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "(It Goes Like) Nanana",
+      "artist": "Peggy Gou",
+      "has_synced": true,
+      "path": "select/06_(It_Goes_Like)_Nanana_Peggy_Gou.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "(It Goes Like) Nanana [edit]",
+      "artist": "Peggy Gou",
+      "has_synced": true,
+      "path": "select/07_(It_Goes_Like)_Nanana_[edit]_Peggy_Gou.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "(It Goes Like) Nanana (Edit)",
+      "artist": "Peggy Gou",
+      "has_synced": true,
+      "path": "select/08_(It_Goes_Like)_Nanana_(Edit)_Peggy_Gou.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "(It Goes Like) Nanana",
+      "artist": "Peggy Gou",
+      "has_synced": false,
+      "path": "select/09_(It_Goes_Like)_Nanana_Peggy_Gou.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "(it goes like) nanana (edit)",
+      "artist": "01_peggy gou",
+      "has_synced": true,
+      "path": "select/10_(it_goes_like)_nanana_(edit)_01_peggy_gou.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(It Goes Like) Nanana - Edit",
+      "artist": "Peggy Gou",
+      "has_synced": true,
+      "path": "select/11_(It_Goes_Like)_Nanana_-_Edit_Peggy_Gou.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "(It Goes Like) Nanana (Edit)",
+      "artist": "Peggy Gou",
+      "has_synced": true,
+      "path": "select/12_(It_Goes_Like)_Nanana_(Edit)_Peggy_Gou.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "(It Goes Like) Nanana",
+      "artist": "Peggy Gou",
+      "has_synced": false,
+      "path": "select/pl_01_(It_Goes_Like)_Nanana_Peggy_Gou.txt"
+    }
+  ]
+}
